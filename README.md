@@ -20,7 +20,7 @@ Repositori ini berisi kumpulan skrip otomatisasi konfigurasi dan manajemen jarin
 ├── wol-utility/
 │   └── remote-wol.rsc            # Kumpulan skrip Wake-on-LAN untuk server & unit[cite: 1]
 └── README.md
-
+```
 ## 📐 Ringkasan Topologi Jaringan
 
 Infrastruktur ini dirancang menggunakan MikroTik CCR2004 dengan skema *Dual-ISP* dan segmentasi **VLAN 802.1Q** yang terhubung ke jaringan lokal kampus (*Bridge Nusantara*)[cite: 1]:
